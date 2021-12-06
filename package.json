@@ -1,0 +1,16 @@
+{
+  "name": "5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "snowpack dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "snowpack": "^3.8.8",
+    "socket.io-client": "^4.4.0"
+  }
+}
